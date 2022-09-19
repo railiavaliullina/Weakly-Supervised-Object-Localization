@@ -15,4 +15,9 @@
 
 File to run:
 
-    /executor/executor.py 
+    /trainer/main.py 
+    
+    or
+    
+    Weakly-supervised object localization.ipynb
+    
