@@ -13,6 +13,8 @@
 4) Calculating localization accuracy using mAP.
 
 
+## Getting Started
+
 File to run:
 
     /trainer/main.py 
@@ -21,6 +23,13 @@ File to run:
     
     Weakly-supervised object localization.ipynb
     
+    
+## Additional Information
+
 Examples of results are in:
 
-        cam_results/
+    cam_results/
+        
+ Parameters can be changed in:
+ 
+    configs/config.py
