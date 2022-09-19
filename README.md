@@ -1,7 +1,5 @@
 # Weakly-Supervised-Object-Localization
 
-![image](https://user-images.githubusercontent.com/113569606/190983967-f458e1e6-b131-4399-929f-f5e78ec31d41.png)
-
 
 ## About The Project
 
