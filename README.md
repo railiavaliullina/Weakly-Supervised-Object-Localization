@@ -21,3 +21,6 @@ File to run:
     
     Weakly-supervised object localization.ipynb
     
+Examples of results are in:
+
+        /cam_results/
