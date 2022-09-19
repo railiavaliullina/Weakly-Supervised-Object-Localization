@@ -23,4 +23,4 @@ File to run:
     
 Examples of results are in:
 
-        /cam_results/
+        cam_results/
